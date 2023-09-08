@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\Dushina_CatFramework\\Dushina_CatApplication\\Dushina_CatApplication.csproj": {}
+    "D:\\Git\\LabsForProgramming\\Dushina_CatFramework\\Dushina_CatApplication\\Dushina_CatApplication.csproj": {}
   },
   "projects": {
-    "D:\\C#\\Dushina_CatFramework\\Dushina_CatApplication\\Dushina_CatApplication.csproj": {
+    "D:\\Git\\LabsForProgramming\\Dushina_CatFramework\\Dushina_CatApplication\\Dushina_CatApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\Dushina_CatFramework\\Dushina_CatApplication\\Dushina_CatApplication.csproj",
+        "projectUniqueName": "D:\\Git\\LabsForProgramming\\Dushina_CatFramework\\Dushina_CatApplication\\Dushina_CatApplication.csproj",
         "projectName": "Dushina_CatApplication",
-        "projectPath": "D:\\C#\\Dushina_CatFramework\\Dushina_CatApplication\\Dushina_CatApplication.csproj",
+        "projectPath": "D:\\Git\\LabsForProgramming\\Dushina_CatFramework\\Dushina_CatApplication\\Dushina_CatApplication.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\Dushina_CatFramework\\Dushina_CatApplication\\obj\\",
+        "outputPath": "D:\\Git\\LabsForProgramming\\Dushina_CatFramework\\Dushina_CatApplication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\C#\\Dushina_CatFramework\\Dushina_CatFramework\\Dushina_CatFramework.csproj": {
-                "projectPath": "D:\\C#\\Dushina_CatFramework\\Dushina_CatFramework\\Dushina_CatFramework.csproj"
+              "D:\\Git\\LabsForProgramming\\Dushina_CatFramework\\Dushina_CatFramework\\Dushina_CatFramework.csproj": {
+                "projectPath": "D:\\Git\\LabsForProgramming\\Dushina_CatFramework\\Dushina_CatFramework\\Dushina_CatFramework.csproj"
               }
             }
           }
@@ -68,14 +68,14 @@
         }
       }
     },
-    "D:\\C#\\Dushina_CatFramework\\Dushina_CatFramework\\Dushina_CatFramework.csproj": {
+    "D:\\Git\\LabsForProgramming\\Dushina_CatFramework\\Dushina_CatFramework\\Dushina_CatFramework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\Dushina_CatFramework\\Dushina_CatFramework\\Dushina_CatFramework.csproj",
+        "projectUniqueName": "D:\\Git\\LabsForProgramming\\Dushina_CatFramework\\Dushina_CatFramework\\Dushina_CatFramework.csproj",
         "projectName": "Dushina_CatFramework",
-        "projectPath": "D:\\C#\\Dushina_CatFramework\\Dushina_CatFramework\\Dushina_CatFramework.csproj",
+        "projectPath": "D:\\Git\\LabsForProgramming\\Dushina_CatFramework\\Dushina_CatFramework\\Dushina_CatFramework.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\Dushina_CatFramework\\Dushina_CatFramework\\obj\\",
+        "outputPath": "D:\\Git\\LabsForProgramming\\Dushina_CatFramework\\Dushina_CatFramework\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

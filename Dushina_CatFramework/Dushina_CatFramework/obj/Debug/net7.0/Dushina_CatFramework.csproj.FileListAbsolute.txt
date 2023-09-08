@@ -1,0 +1,12 @@
+D:\Git\LabsForProgramming\Dushina_CatFramework\Dushina_CatFramework\bin\Debug\net7.0\Dushina_CatFramework.deps.json
+D:\Git\LabsForProgramming\Dushina_CatFramework\Dushina_CatFramework\bin\Debug\net7.0\Dushina_CatFramework.dll
+D:\Git\LabsForProgramming\Dushina_CatFramework\Dushina_CatFramework\bin\Debug\net7.0\Dushina_CatFramework.pdb
+D:\Git\LabsForProgramming\Dushina_CatFramework\Dushina_CatFramework\obj\Debug\net7.0\Dushina_CatFramework.csproj.AssemblyReference.cache
+D:\Git\LabsForProgramming\Dushina_CatFramework\Dushina_CatFramework\obj\Debug\net7.0\Dushina_CatFramework.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\LabsForProgramming\Dushina_CatFramework\Dushina_CatFramework\obj\Debug\net7.0\Dushina_CatFramework.AssemblyInfoInputs.cache
+D:\Git\LabsForProgramming\Dushina_CatFramework\Dushina_CatFramework\obj\Debug\net7.0\Dushina_CatFramework.AssemblyInfo.cs
+D:\Git\LabsForProgramming\Dushina_CatFramework\Dushina_CatFramework\obj\Debug\net7.0\Dushina_CatFramework.csproj.CoreCompileInputs.cache
+D:\Git\LabsForProgramming\Dushina_CatFramework\Dushina_CatFramework\obj\Debug\net7.0\Dushina_CatFramework.dll
+D:\Git\LabsForProgramming\Dushina_CatFramework\Dushina_CatFramework\obj\Debug\net7.0\refint\Dushina_CatFramework.dll
+D:\Git\LabsForProgramming\Dushina_CatFramework\Dushina_CatFramework\obj\Debug\net7.0\Dushina_CatFramework.pdb
+D:\Git\LabsForProgramming\Dushina_CatFramework\Dushina_CatFramework\obj\Debug\net7.0\ref\Dushina_CatFramework.dll
