@@ -1,9 +1,12 @@
 ﻿using System.Dynamic;
+using System.Net.Mime;
+using System.Runtime.InteropServices;
+using System.Text;
 using Dushina_CatFramework;
 
 uint catCount = uint.Parse(Console.ReadLine());
 var cats = GenerateRandomCats(catCount);
-DisplayCatInfo(cats);
+DisplayCatInfo(cats, "test.txt");
 
 
 Cat[] GenerateRandomCats(uint count)
@@ -52,12 +55,17 @@ Cat[] GenerateRandomCats(uint count)
     return cats;
 }
 
-void DisplayCatInfo(Cat[] catsArr)
+void DisplayCatInfo(Cat[] catsArr, string path)
 {
-    for (int i = 0; i < catsArr.Length; i++)
-    {
-        Console.WriteLine(catsArr[i].FluffinessCheck());
-        Console.WriteLine(catsArr[i]);
+        using(StreamWriter file = new StreamWriter(path, false))
+        {
+            for (int i = 0; i < catsArr.Length; i++)
+            {
+                Console.WriteLine(catsArr[i].FluffinessCheck());
+                Console.WriteLine(catsArr[i]);
+                file.WriteLine(catsArr[i].FluffinessCheck());
+                file.WriteLine(catsArr[i].ToString());
+            }
         
-    }
+        }
 }

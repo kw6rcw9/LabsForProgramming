@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Git\\LabsForProgramming\\Dushina_CatFramework\\Dushina_CatApplication\\Dushina_CatApplication.csproj": {}
+    "F:\\C#\\LabsForProgramming\\Dushina_CatFramework\\Dushina_CatApplication\\Dushina_CatApplication.csproj": {}
   },
   "projects": {
-    "D:\\Git\\LabsForProgramming\\Dushina_CatFramework\\Dushina_CatApplication\\Dushina_CatApplication.csproj": {
+    "F:\\C#\\LabsForProgramming\\Dushina_CatFramework\\Dushina_CatApplication\\Dushina_CatApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Git\\LabsForProgramming\\Dushina_CatFramework\\Dushina_CatApplication\\Dushina_CatApplication.csproj",
+        "projectUniqueName": "F:\\C#\\LabsForProgramming\\Dushina_CatFramework\\Dushina_CatApplication\\Dushina_CatApplication.csproj",
         "projectName": "Dushina_CatApplication",
-        "projectPath": "D:\\Git\\LabsForProgramming\\Dushina_CatFramework\\Dushina_CatApplication\\Dushina_CatApplication.csproj",
-        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "D:\\Git\\LabsForProgramming\\Dushina_CatFramework\\Dushina_CatApplication\\obj\\",
+        "projectPath": "F:\\C#\\LabsForProgramming\\Dushina_CatFramework\\Dushina_CatApplication\\Dushina_CatApplication.csproj",
+        "packagesPath": "C:\\Users\\Катя\\.nuget\\packages\\",
+        "outputPath": "F:\\C#\\LabsForProgramming\\Dushina_CatFramework\\Dushina_CatApplication\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Катя\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,15 +22,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\Git\\LabsForProgramming\\Dushina_CatFramework\\Dushina_CatFramework\\Dushina_CatFramework.csproj": {
-                "projectPath": "D:\\Git\\LabsForProgramming\\Dushina_CatFramework\\Dushina_CatFramework\\Dushina_CatFramework.csproj"
+              "F:\\C#\\LabsForProgramming\\Dushina_CatFramework\\Dushina_CatFramework\\Dushina_CatFramework.csproj": {
+                "projectPath": "F:\\C#\\LabsForProgramming\\Dushina_CatFramework\\Dushina_CatFramework\\Dushina_CatFramework.csproj"
               }
             }
           }
@@ -68,21 +63,17 @@
         }
       }
     },
-    "D:\\Git\\LabsForProgramming\\Dushina_CatFramework\\Dushina_CatFramework\\Dushina_CatFramework.csproj": {
+    "F:\\C#\\LabsForProgramming\\Dushina_CatFramework\\Dushina_CatFramework\\Dushina_CatFramework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Git\\LabsForProgramming\\Dushina_CatFramework\\Dushina_CatFramework\\Dushina_CatFramework.csproj",
+        "projectUniqueName": "F:\\C#\\LabsForProgramming\\Dushina_CatFramework\\Dushina_CatFramework\\Dushina_CatFramework.csproj",
         "projectName": "Dushina_CatFramework",
-        "projectPath": "D:\\Git\\LabsForProgramming\\Dushina_CatFramework\\Dushina_CatFramework\\Dushina_CatFramework.csproj",
-        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "D:\\Git\\LabsForProgramming\\Dushina_CatFramework\\Dushina_CatFramework\\obj\\",
+        "projectPath": "F:\\C#\\LabsForProgramming\\Dushina_CatFramework\\Dushina_CatFramework\\Dushina_CatFramework.csproj",
+        "packagesPath": "C:\\Users\\Катя\\.nuget\\packages\\",
+        "outputPath": "F:\\C#\\LabsForProgramming\\Dushina_CatFramework\\Dushina_CatFramework\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Катя\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -90,7 +81,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
