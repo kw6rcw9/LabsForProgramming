@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "SecondTask/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/SecondTask.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SecondTask.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "SecondTask/1.0.0": {
+      "type": "project",
+      "path": "../SecondTask/SecondTask.csproj",
+      "msbuildProject": "../SecondTask/SecondTask.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0": [
+      "SecondTask >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Катя\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "F:\\C#\\LabsForProgramming\\GenericsLibrary\\SecondTask\\SecondTask.csproj": {
+              "projectPath": "F:\\C#\\LabsForProgramming\\GenericsLibrary\\SecondTask\\SecondTask.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

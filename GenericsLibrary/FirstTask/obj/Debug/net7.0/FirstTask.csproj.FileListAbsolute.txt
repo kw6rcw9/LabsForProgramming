@@ -3,14 +3,11 @@ F:\C#\LabsForProgramming\GenericsLibrary\FirstTask\bin\Debug\net7.0\FirstTask.de
 F:\C#\LabsForProgramming\GenericsLibrary\FirstTask\bin\Debug\net7.0\FirstTask.runtimeconfig.json
 F:\C#\LabsForProgramming\GenericsLibrary\FirstTask\bin\Debug\net7.0\FirstTask.dll
 F:\C#\LabsForProgramming\GenericsLibrary\FirstTask\bin\Debug\net7.0\FirstTask.pdb
-F:\C#\LabsForProgramming\GenericsLibrary\FirstTask\bin\Debug\net7.0\SecondTask.dll
-F:\C#\LabsForProgramming\GenericsLibrary\FirstTask\bin\Debug\net7.0\SecondTask.pdb
 F:\C#\LabsForProgramming\GenericsLibrary\FirstTask\obj\Debug\net7.0\FirstTask.csproj.AssemblyReference.cache
 F:\C#\LabsForProgramming\GenericsLibrary\FirstTask\obj\Debug\net7.0\FirstTask.GeneratedMSBuildEditorConfig.editorconfig
 F:\C#\LabsForProgramming\GenericsLibrary\FirstTask\obj\Debug\net7.0\FirstTask.AssemblyInfoInputs.cache
 F:\C#\LabsForProgramming\GenericsLibrary\FirstTask\obj\Debug\net7.0\FirstTask.AssemblyInfo.cs
 F:\C#\LabsForProgramming\GenericsLibrary\FirstTask\obj\Debug\net7.0\FirstTask.csproj.CoreCompileInputs.cache
-F:\C#\LabsForProgramming\GenericsLibrary\FirstTask\obj\Debug\net7.0\FirstTask.csproj.CopyComplete
 F:\C#\LabsForProgramming\GenericsLibrary\FirstTask\obj\Debug\net7.0\FirstTask.dll
 F:\C#\LabsForProgramming\GenericsLibrary\FirstTask\obj\Debug\net7.0\refint\FirstTask.dll
 F:\C#\LabsForProgramming\GenericsLibrary\FirstTask\obj\Debug\net7.0\FirstTask.pdb

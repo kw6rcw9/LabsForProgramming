@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v7.0": {
-      "FirstTask/1.0.0": {
+      "SecondTask/1.0.0": {
         "runtime": {
-          "FirstTask.dll": {}
+          "SecondTask.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "FirstTask/1.0.0": {
+    "SecondTask/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
