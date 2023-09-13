@@ -1,0 +1,7 @@
+F:\C#\DynamicArray\bin\Debug\DynamicArray.exe
+F:\C#\DynamicArray\bin\Debug\DynamicArray.pdb
+F:\C#\DynamicArray\obj\Debug\DynamicArray.csproj.AssemblyReference.cache
+F:\C#\DynamicArray\obj\Debug\DynamicArray.csproj.SuggestedBindingRedirects.cache
+F:\C#\DynamicArray\obj\Debug\DynamicArray.csproj.CoreCompileInputs.cache
+F:\C#\DynamicArray\obj\Debug\DynamicArray.exe
+F:\C#\DynamicArray\obj\Debug\DynamicArray.pdb
