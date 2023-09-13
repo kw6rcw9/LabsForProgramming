@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\C#\\LabsForProgramming\\GenericsLibrary\\FirstTask\\FirstTask.csproj",
-      "projectName": "FirstTask",
-      "projectPath": "F:\\C#\\LabsForProgramming\\GenericsLibrary\\FirstTask\\FirstTask.csproj",
+      "projectUniqueName": "F:\\C#\\LabsForProgramming\\GenericsLibrary\\ThirdTask\\ThirdTask.csproj",
+      "projectName": "ThirdTask",
+      "projectPath": "F:\\C#\\LabsForProgramming\\GenericsLibrary\\ThirdTask\\ThirdTask.csproj",
       "packagesPath": "C:\\Users\\Катя\\.nuget\\packages\\",
-      "outputPath": "F:\\C#\\LabsForProgramming\\GenericsLibrary\\FirstTask\\obj\\",
+      "outputPath": "F:\\C#\\LabsForProgramming\\GenericsLibrary\\ThirdTask\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Катя\\AppData\\Roaming\\NuGet\\NuGet.Config",

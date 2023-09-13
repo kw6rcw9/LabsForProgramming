@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\C#\\LabsForProgramming\\GenericsLibrary\\GenericsLibrary\\GenericsLibrary.csproj": {}
+    "F:\\C#\\LabsForProgramming\\GenericsLibrary\\ThirdTask\\ThirdTask.csproj": {}
   },
   "projects": {
-    "F:\\C#\\LabsForProgramming\\GenericsLibrary\\GenericsLibrary\\GenericsLibrary.csproj": {
+    "F:\\C#\\LabsForProgramming\\GenericsLibrary\\ThirdTask\\ThirdTask.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\C#\\LabsForProgramming\\GenericsLibrary\\GenericsLibrary\\GenericsLibrary.csproj",
-        "projectName": "GenericsLibrary",
-        "projectPath": "F:\\C#\\LabsForProgramming\\GenericsLibrary\\GenericsLibrary\\GenericsLibrary.csproj",
+        "projectUniqueName": "F:\\C#\\LabsForProgramming\\GenericsLibrary\\ThirdTask\\ThirdTask.csproj",
+        "projectName": "ThirdTask",
+        "projectPath": "F:\\C#\\LabsForProgramming\\GenericsLibrary\\ThirdTask\\ThirdTask.csproj",
         "packagesPath": "C:\\Users\\Катя\\.nuget\\packages\\",
-        "outputPath": "F:\\C#\\LabsForProgramming\\GenericsLibrary\\GenericsLibrary\\obj\\",
+        "outputPath": "F:\\C#\\LabsForProgramming\\GenericsLibrary\\ThirdTask\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Катя\\AppData\\Roaming\\NuGet\\NuGet.Config",

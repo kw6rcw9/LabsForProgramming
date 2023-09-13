@@ -1,0 +1,15 @@
+F:\C#\LabsForProgramming\GenericsLibrary\SecondTask\bin\Debug\net7.0\SecondTask.exe
+F:\C#\LabsForProgramming\GenericsLibrary\SecondTask\bin\Debug\net7.0\SecondTask.deps.json
+F:\C#\LabsForProgramming\GenericsLibrary\SecondTask\bin\Debug\net7.0\SecondTask.runtimeconfig.json
+F:\C#\LabsForProgramming\GenericsLibrary\SecondTask\bin\Debug\net7.0\SecondTask.dll
+F:\C#\LabsForProgramming\GenericsLibrary\SecondTask\bin\Debug\net7.0\SecondTask.pdb
+F:\C#\LabsForProgramming\GenericsLibrary\SecondTask\obj\Debug\net7.0\SecondTask.csproj.AssemblyReference.cache
+F:\C#\LabsForProgramming\GenericsLibrary\SecondTask\obj\Debug\net7.0\SecondTask.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\LabsForProgramming\GenericsLibrary\SecondTask\obj\Debug\net7.0\SecondTask.AssemblyInfoInputs.cache
+F:\C#\LabsForProgramming\GenericsLibrary\SecondTask\obj\Debug\net7.0\SecondTask.AssemblyInfo.cs
+F:\C#\LabsForProgramming\GenericsLibrary\SecondTask\obj\Debug\net7.0\SecondTask.csproj.CoreCompileInputs.cache
+F:\C#\LabsForProgramming\GenericsLibrary\SecondTask\obj\Debug\net7.0\SecondTask.dll
+F:\C#\LabsForProgramming\GenericsLibrary\SecondTask\obj\Debug\net7.0\refint\SecondTask.dll
+F:\C#\LabsForProgramming\GenericsLibrary\SecondTask\obj\Debug\net7.0\SecondTask.pdb
+F:\C#\LabsForProgramming\GenericsLibrary\SecondTask\obj\Debug\net7.0\SecondTask.genruntimeconfig.cache
+F:\C#\LabsForProgramming\GenericsLibrary\SecondTask\obj\Debug\net7.0\ref\SecondTask.dll

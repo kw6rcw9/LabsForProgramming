@@ -8,8 +8,4 @@
         <RootNamespace>MainApp</RootNamespace>
     </PropertyGroup>
 
-    <ItemGroup>
-      <ProjectReference Include="..\SecondTask\SecondTask.csproj" />
-    </ItemGroup>
-
 </Project>
