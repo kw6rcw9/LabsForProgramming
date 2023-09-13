@@ -1,0 +1,15 @@
+F:\C#\LabsForProgramming\GenericsLibrary\FourthTask\bin\Debug\net7.0\FourthTask.exe
+F:\C#\LabsForProgramming\GenericsLibrary\FourthTask\bin\Debug\net7.0\FourthTask.deps.json
+F:\C#\LabsForProgramming\GenericsLibrary\FourthTask\bin\Debug\net7.0\FourthTask.runtimeconfig.json
+F:\C#\LabsForProgramming\GenericsLibrary\FourthTask\bin\Debug\net7.0\FourthTask.dll
+F:\C#\LabsForProgramming\GenericsLibrary\FourthTask\bin\Debug\net7.0\FourthTask.pdb
+F:\C#\LabsForProgramming\GenericsLibrary\FourthTask\obj\Debug\net7.0\FourthTask.csproj.AssemblyReference.cache
+F:\C#\LabsForProgramming\GenericsLibrary\FourthTask\obj\Debug\net7.0\FourthTask.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\LabsForProgramming\GenericsLibrary\FourthTask\obj\Debug\net7.0\FourthTask.AssemblyInfoInputs.cache
+F:\C#\LabsForProgramming\GenericsLibrary\FourthTask\obj\Debug\net7.0\FourthTask.AssemblyInfo.cs
+F:\C#\LabsForProgramming\GenericsLibrary\FourthTask\obj\Debug\net7.0\FourthTask.csproj.CoreCompileInputs.cache
+F:\C#\LabsForProgramming\GenericsLibrary\FourthTask\obj\Debug\net7.0\FourthTask.dll
+F:\C#\LabsForProgramming\GenericsLibrary\FourthTask\obj\Debug\net7.0\refint\FourthTask.dll
+F:\C#\LabsForProgramming\GenericsLibrary\FourthTask\obj\Debug\net7.0\FourthTask.pdb
+F:\C#\LabsForProgramming\GenericsLibrary\FourthTask\obj\Debug\net7.0\FourthTask.genruntimeconfig.cache
+F:\C#\LabsForProgramming\GenericsLibrary\FourthTask\obj\Debug\net7.0\ref\FourthTask.dll
