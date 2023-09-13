@@ -4,7 +4,7 @@ namespace ForthTask;
 
 public class Figure
 {
-    private Vector2 _center;
+    protected Vector2 _center;
 
     public Figure(Vector2 center)
     {

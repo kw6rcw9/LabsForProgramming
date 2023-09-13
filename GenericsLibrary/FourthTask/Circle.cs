@@ -1,4 +1,6 @@
-﻿namespace ForthTask;
+﻿using System.Numerics;
+
+namespace ForthTask;
 
 public class Circle<T>: Figure
 {
@@ -10,6 +12,12 @@ public class Circle<T>: Figure
     public Circle(T radius)
     {
         Radius = radius;
+    }
+
+    public Circle(T radius, Vector2 center):base(center)
+    {
+        Radius = radius;
+        _center = center;
     }
 
     public void SetRadius<Type>(Type newRad)
