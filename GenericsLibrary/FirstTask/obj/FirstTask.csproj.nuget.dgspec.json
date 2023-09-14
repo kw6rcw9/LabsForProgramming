@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "F:\\C#\\LabsForProgramming\\GenericsLibrary\\FirstTask\\FirstTask.csproj": {}
+    "D:\\Git\\LabsForProgramming\\GenericsLibrary\\FirstTask\\FirstTask.csproj": {}
   },
   "projects": {
-    "F:\\C#\\LabsForProgramming\\GenericsLibrary\\FirstTask\\FirstTask.csproj": {
+    "D:\\Git\\LabsForProgramming\\GenericsLibrary\\FirstTask\\FirstTask.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\C#\\LabsForProgramming\\GenericsLibrary\\FirstTask\\FirstTask.csproj",
+        "projectUniqueName": "D:\\Git\\LabsForProgramming\\GenericsLibrary\\FirstTask\\FirstTask.csproj",
         "projectName": "FirstTask",
-        "projectPath": "F:\\C#\\LabsForProgramming\\GenericsLibrary\\FirstTask\\FirstTask.csproj",
-        "packagesPath": "C:\\Users\\Катя\\.nuget\\packages\\",
-        "outputPath": "F:\\C#\\LabsForProgramming\\GenericsLibrary\\FirstTask\\obj\\",
+        "projectPath": "D:\\Git\\LabsForProgramming\\GenericsLibrary\\FirstTask\\FirstTask.csproj",
+        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+        "outputPath": "D:\\Git\\LabsForProgramming\\GenericsLibrary\\FirstTask\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Катя\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

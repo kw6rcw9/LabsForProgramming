@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k8aSXH5IyzqW7ssnNflYA4W/q89mEb8D8IrQsKR5kUONHR+4T11qKEP+XzfgrJCLxjnpNX2hrE6XVJDphSVyEw==",
+  "dgSpecHash": "ZgQu8+2MOli7/JptWbdEzCGeh3/WEYoPZ4cfhfJ4Mn+hgpRcYE5Et+Iw86w4IzoJl6vIwWwaw0F1YXSIfiNKFw==",
   "success": true,
-  "projectFilePath": "F:\\C#\\LabsForProgramming\\GenericsLibrary\\SecondTask\\SecondTask.csproj",
+  "projectFilePath": "D:\\Git\\LabsForProgramming\\GenericsLibrary\\SecondTask\\SecondTask.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

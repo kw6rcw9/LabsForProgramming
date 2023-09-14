@@ -11,4 +11,9 @@ public class Figure
         _center = center;
     }
     public Figure(){}
+    
+    public virtual Vector2 MinPoint { get; }
+    public virtual Vector2 MaxPoint { get; }
+  
+    
 }
