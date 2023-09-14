@@ -1,5 +1,0 @@
-D:\C#\Dushina_CatFramework\obj\Debug\net7.0\Dushina_CatFramework.csproj.AssemblyReference.cache
-D:\C#\Dushina_CatFramework\obj\Debug\net7.0\Dushina_CatFramework.GeneratedMSBuildEditorConfig.editorconfig
-D:\C#\Dushina_CatFramework\obj\Debug\net7.0\Dushina_CatFramework.AssemblyInfoInputs.cache
-D:\C#\Dushina_CatFramework\obj\Debug\net7.0\Dushina_CatFramework.AssemblyInfo.cs
-D:\C#\Dushina_CatFramework\obj\Debug\net7.0\Dushina_CatFramework.csproj.CoreCompileInputs.cache
