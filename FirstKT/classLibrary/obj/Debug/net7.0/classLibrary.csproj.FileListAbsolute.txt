@@ -1,0 +1,12 @@
+F:\C#\LabsForProgramming\FirstKT\classLibrary\bin\Debug\net7.0\classLibrary.deps.json
+F:\C#\LabsForProgramming\FirstKT\classLibrary\bin\Debug\net7.0\classLibrary.dll
+F:\C#\LabsForProgramming\FirstKT\classLibrary\bin\Debug\net7.0\classLibrary.pdb
+F:\C#\LabsForProgramming\FirstKT\classLibrary\obj\Debug\net7.0\classLibrary.csproj.AssemblyReference.cache
+F:\C#\LabsForProgramming\FirstKT\classLibrary\obj\Debug\net7.0\classLibrary.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\LabsForProgramming\FirstKT\classLibrary\obj\Debug\net7.0\classLibrary.AssemblyInfoInputs.cache
+F:\C#\LabsForProgramming\FirstKT\classLibrary\obj\Debug\net7.0\classLibrary.AssemblyInfo.cs
+F:\C#\LabsForProgramming\FirstKT\classLibrary\obj\Debug\net7.0\classLibrary.csproj.CoreCompileInputs.cache
+F:\C#\LabsForProgramming\FirstKT\classLibrary\obj\Debug\net7.0\classLibrary.dll
+F:\C#\LabsForProgramming\FirstKT\classLibrary\obj\Debug\net7.0\refint\classLibrary.dll
+F:\C#\LabsForProgramming\FirstKT\classLibrary\obj\Debug\net7.0\classLibrary.pdb
+F:\C#\LabsForProgramming\FirstKT\classLibrary\obj\Debug\net7.0\ref\classLibrary.dll
