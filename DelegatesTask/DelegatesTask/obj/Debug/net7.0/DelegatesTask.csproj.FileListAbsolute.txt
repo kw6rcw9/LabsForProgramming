@@ -1,0 +1,17 @@
+F:\C#\LabsForProgramming\DelegatesTask\DelegatesTask\bin\Debug\net7.0\DelegatesTask.exe
+F:\C#\LabsForProgramming\DelegatesTask\DelegatesTask\bin\Debug\net7.0\DelegatesTask.deps.json
+F:\C#\LabsForProgramming\DelegatesTask\DelegatesTask\bin\Debug\net7.0\DelegatesTask.runtimeconfig.json
+F:\C#\LabsForProgramming\DelegatesTask\DelegatesTask\bin\Debug\net7.0\DelegatesTask.dll
+F:\C#\LabsForProgramming\DelegatesTask\DelegatesTask\bin\Debug\net7.0\DelegatesTask.pdb
+F:\C#\LabsForProgramming\DelegatesTask\DelegatesTask\obj\Debug\net7.0\DelegatesTask.csproj.AssemblyReference.cache
+F:\C#\LabsForProgramming\DelegatesTask\DelegatesTask\obj\Debug\net7.0\DelegatesTask.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\LabsForProgramming\DelegatesTask\DelegatesTask\obj\Debug\net7.0\DelegatesTask.AssemblyInfoInputs.cache
+F:\C#\LabsForProgramming\DelegatesTask\DelegatesTask\obj\Debug\net7.0\DelegatesTask.AssemblyInfo.cs
+F:\C#\LabsForProgramming\DelegatesTask\DelegatesTask\obj\Debug\net7.0\DelegatesTask.csproj.CoreCompileInputs.cache
+F:\C#\LabsForProgramming\DelegatesTask\DelegatesTask\obj\Debug\net7.0\DelegatesTask.dll
+F:\C#\LabsForProgramming\DelegatesTask\DelegatesTask\obj\Debug\net7.0\refint\DelegatesTask.dll
+F:\C#\LabsForProgramming\DelegatesTask\DelegatesTask\obj\Debug\net7.0\DelegatesTask.pdb
+F:\C#\LabsForProgramming\DelegatesTask\DelegatesTask\obj\Debug\net7.0\DelegatesTask.genruntimeconfig.cache
+F:\C#\LabsForProgramming\DelegatesTask\DelegatesTask\obj\Debug\net7.0\ref\DelegatesTask.dll
+F:\C#\LabsForProgramming\DelegatesTask\DelegatesTask\bin\Debug\net7.0\MathNet.Numerics.dll
+F:\C#\LabsForProgramming\DelegatesTask\DelegatesTask\obj\Debug\net7.0\DelegatesTask.csproj.CopyComplete

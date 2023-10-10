@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5ndG+WwhamGj8Ej8Q9OMm/QF9T8LRl14R3djeowZ5IBwENn8BOGTjSgonGnoDknFlIFmG4sjZtB1C0pPfbgiiQ==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\LabsForProgramming\\DelegatesTask\\DelegatesTask\\DelegatesTask.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Катя\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
