@@ -1,49 +1,80 @@
 ﻿namespace DelegatesTask;
 using MathNet.Numerics;
 
+public delegate void RefDel( int num);
+public delegate int DelegateFactorial( int num);
+public delegate int DelegateNumSum(int num);
+public delegate int DelegateNumMult(int num);
+
+public delegate void DelegatePrintSum(int num);
+public delegate void DelegatePrintMult(int num);
+public delegate bool DelegateRemove( int num, out int oddsAmount, out int result, bool oddsNeeded);
+public delegate int GenericDelNumSum<T>(T num);
+public delegate int GenericDelNumMult<T>(T num);
+
+public delegate T GenericDelFac<T>(T num);
+public delegate void GenericDelPrintSum<T>(T num);
+public delegate void GenericDelPrintMult<T>(T num);
 public class Calculation
 {
-    
-
-    public delegate bool DelRemove(int num, out int oddsAmount, out int result);
-
-    public DelRemove DelRemoveOdd;
-    
-    public delegate T GenericDelNum<T>(T num);
-    public GenericDelNum<float> DelFactorial;
-    public GenericDelNum<int> DelFactorialInt;
-    public GenericDelNum<float> DelSum;
-    public GenericDelNum<int> DelSumInt;
-    public GenericDelNum<float> DelMult;
-    public GenericDelNum<int> DelMultInt;
-    
-    
-    public delegate void DelPrint<T>(T num);
-    
-    public DelPrint<float> DelPrintSum;
-    public DelPrint<float> DelPrintMult;
-    public DelPrint<int> DelPrintSumInt;
-    public DelPrint<int> DelPrintMultInt;
-
+    public DelegateRemove? DelRemove;
+    public DelegateFactorial? DelFac;
+    public DelegateNumSum? DelNumSum;
+    public DelegateNumMult? DelNumMult;
+    public DelegatePrintSum? DelPrintSum;
+    public DelegatePrintMult? DelPrintMult;
+    public GenericDelNumSum<float>? GenericDelSum;
+    public GenericDelNumMult<float>? GenericDelMult;
+    public GenericDelPrintSum<float>? GenericDelPrintSum;
+    public GenericDelPrintMult<float>? GenericDelPrintMult;
+    public GenericDelFac<float>? GenericDelFactorial;
 
     public Calculation()
     {
-        DelFactorial = Factorial;
-        DelSum = NumSum;
-        DelMult = NumMult;
-        DelPrintSum = PrintSum;
+        DelRemove = RemoveOdd;
+        DelFac = Factorial;
+        DelNumMult = NumMult;
+        DelNumSum = NumSum;
         DelPrintMult = PrintMult;
-        DelRemoveOdd = RemoveOdd;
-        
+        DelPrintSum = PrintSum;
+        GenericDelSum = NumSum;
+        GenericDelMult = NumMult;
+        GenericDelPrintMult = PrintMult;
+        GenericDelPrintSum = PrintSum;
+        GenericDelFactorial = Factorial;
+
+    }
+
+    public RefDel MultiDelegate()
+    {
+        RefDel del;
+        del = PrintMultNotOdds;
+        del += PrintMultOdds;
+
+        return del;
 
 
     }
-    
-    public int Factorial(int num)
+
+    private void PrintMultOdds( int num)
+    {
+        int a, b;
+        RemoveOdd(num, out a, out b, true);
+        PrintMult(b);
+        
+    }
+    private void PrintMultNotOdds( int num)
+    {
+        int a, b;
+        RemoveOdd(num, out a, out b,false);
+        PrintSum(b);
+        
+    }
+    public int Factorial( int num)
     {
         if (num == 1)
             return 1;
-        return num * Factorial(num - 1);
+        return num * Factorial( num - 1);
     }
     public float Factorial(float num)
     {
@@ -62,7 +93,7 @@ public class Calculation
         
         return sum;
     }
-    public float NumSum(float num)
+    public int NumSum(float num)
     {
         string newNum = num.ToString().Replace(",", string.Empty);
         int sum = 0;
@@ -84,7 +115,7 @@ public class Calculation
         return mult;
         
     }
-    public float NumMult(float num)
+    public int NumMult(float num)
     {
         string newNum = num.ToString().Replace(",", string.Empty);
         int mult = 0;
@@ -114,7 +145,7 @@ public class Calculation
         Console.WriteLine(NumMult(num));
     }
 
-    public bool RemoveOdd(int num, out int deletedNums, out int result)
+    public  bool RemoveOdd( int num, out int deletedNums, out int result, bool oddsNeeded)
     {
         int odds = 0;
         int newNum = 0;
@@ -122,12 +153,18 @@ public class Calculation
 
         for (int i = 0; i < list.Count; i++)
         {
+            
             int intNum = int.Parse(list[i].ToString());
-            if(intNum % 2 == 0)
+            if(intNum % 2 == 0 && oddsNeeded)
             {
                 list.Remove(list[i]);
                 odds++;
-            }   
+            }
+            else if(intNum % 2 != 0 && !oddsNeeded)
+            {
+                list.Remove(list[i]);
+                
+            }
         }
         newNum = int.Parse(string.Join("", list.ToArray()));
         deletedNums = odds;
