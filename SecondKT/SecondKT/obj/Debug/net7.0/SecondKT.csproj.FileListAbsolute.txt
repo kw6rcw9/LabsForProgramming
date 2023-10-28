@@ -1,0 +1,15 @@
+F:\C#\LabsForProgramming\SecondKT\SecondKT\bin\Debug\net7.0\SecondKT.exe
+F:\C#\LabsForProgramming\SecondKT\SecondKT\bin\Debug\net7.0\SecondKT.deps.json
+F:\C#\LabsForProgramming\SecondKT\SecondKT\bin\Debug\net7.0\SecondKT.runtimeconfig.json
+F:\C#\LabsForProgramming\SecondKT\SecondKT\bin\Debug\net7.0\SecondKT.dll
+F:\C#\LabsForProgramming\SecondKT\SecondKT\bin\Debug\net7.0\SecondKT.pdb
+F:\C#\LabsForProgramming\SecondKT\SecondKT\obj\Debug\net7.0\SecondKT.csproj.AssemblyReference.cache
+F:\C#\LabsForProgramming\SecondKT\SecondKT\obj\Debug\net7.0\SecondKT.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\LabsForProgramming\SecondKT\SecondKT\obj\Debug\net7.0\SecondKT.AssemblyInfoInputs.cache
+F:\C#\LabsForProgramming\SecondKT\SecondKT\obj\Debug\net7.0\SecondKT.AssemblyInfo.cs
+F:\C#\LabsForProgramming\SecondKT\SecondKT\obj\Debug\net7.0\SecondKT.csproj.CoreCompileInputs.cache
+F:\C#\LabsForProgramming\SecondKT\SecondKT\obj\Debug\net7.0\SecondKT.dll
+F:\C#\LabsForProgramming\SecondKT\SecondKT\obj\Debug\net7.0\refint\SecondKT.dll
+F:\C#\LabsForProgramming\SecondKT\SecondKT\obj\Debug\net7.0\SecondKT.pdb
+F:\C#\LabsForProgramming\SecondKT\SecondKT\obj\Debug\net7.0\SecondKT.genruntimeconfig.cache
+F:\C#\LabsForProgramming\SecondKT\SecondKT\obj\Debug\net7.0\ref\SecondKT.dll
