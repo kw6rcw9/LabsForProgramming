@@ -1,0 +1,15 @@
+F:\C#\LabsForProgramming\AbstractSystem\AbstractSystem\bin\Debug\net7.0\AbstractSystem.exe
+F:\C#\LabsForProgramming\AbstractSystem\AbstractSystem\bin\Debug\net7.0\AbstractSystem.deps.json
+F:\C#\LabsForProgramming\AbstractSystem\AbstractSystem\bin\Debug\net7.0\AbstractSystem.runtimeconfig.json
+F:\C#\LabsForProgramming\AbstractSystem\AbstractSystem\bin\Debug\net7.0\AbstractSystem.dll
+F:\C#\LabsForProgramming\AbstractSystem\AbstractSystem\bin\Debug\net7.0\AbstractSystem.pdb
+F:\C#\LabsForProgramming\AbstractSystem\AbstractSystem\obj\Debug\net7.0\AbstractSystem.csproj.AssemblyReference.cache
+F:\C#\LabsForProgramming\AbstractSystem\AbstractSystem\obj\Debug\net7.0\AbstractSystem.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\LabsForProgramming\AbstractSystem\AbstractSystem\obj\Debug\net7.0\AbstractSystem.AssemblyInfoInputs.cache
+F:\C#\LabsForProgramming\AbstractSystem\AbstractSystem\obj\Debug\net7.0\AbstractSystem.AssemblyInfo.cs
+F:\C#\LabsForProgramming\AbstractSystem\AbstractSystem\obj\Debug\net7.0\AbstractSystem.csproj.CoreCompileInputs.cache
+F:\C#\LabsForProgramming\AbstractSystem\AbstractSystem\obj\Debug\net7.0\AbstractSystem.dll
+F:\C#\LabsForProgramming\AbstractSystem\AbstractSystem\obj\Debug\net7.0\refint\AbstractSystem.dll
+F:\C#\LabsForProgramming\AbstractSystem\AbstractSystem\obj\Debug\net7.0\AbstractSystem.pdb
+F:\C#\LabsForProgramming\AbstractSystem\AbstractSystem\obj\Debug\net7.0\AbstractSystem.genruntimeconfig.cache
+F:\C#\LabsForProgramming\AbstractSystem\AbstractSystem\obj\Debug\net7.0\ref\AbstractSystem.dll
