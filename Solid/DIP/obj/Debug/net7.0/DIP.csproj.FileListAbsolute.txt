@@ -1,0 +1,15 @@
+F:\C#\LabsForProgramming\Solid\DIP\bin\Debug\net7.0\DIP.exe
+F:\C#\LabsForProgramming\Solid\DIP\bin\Debug\net7.0\DIP.deps.json
+F:\C#\LabsForProgramming\Solid\DIP\bin\Debug\net7.0\DIP.runtimeconfig.json
+F:\C#\LabsForProgramming\Solid\DIP\bin\Debug\net7.0\DIP.dll
+F:\C#\LabsForProgramming\Solid\DIP\bin\Debug\net7.0\DIP.pdb
+F:\C#\LabsForProgramming\Solid\DIP\obj\Debug\net7.0\DIP.csproj.AssemblyReference.cache
+F:\C#\LabsForProgramming\Solid\DIP\obj\Debug\net7.0\DIP.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\LabsForProgramming\Solid\DIP\obj\Debug\net7.0\DIP.AssemblyInfoInputs.cache
+F:\C#\LabsForProgramming\Solid\DIP\obj\Debug\net7.0\DIP.AssemblyInfo.cs
+F:\C#\LabsForProgramming\Solid\DIP\obj\Debug\net7.0\DIP.csproj.CoreCompileInputs.cache
+F:\C#\LabsForProgramming\Solid\DIP\obj\Debug\net7.0\DIP.dll
+F:\C#\LabsForProgramming\Solid\DIP\obj\Debug\net7.0\refint\DIP.dll
+F:\C#\LabsForProgramming\Solid\DIP\obj\Debug\net7.0\DIP.pdb
+F:\C#\LabsForProgramming\Solid\DIP\obj\Debug\net7.0\DIP.genruntimeconfig.cache
+F:\C#\LabsForProgramming\Solid\DIP\obj\Debug\net7.0\ref\DIP.dll

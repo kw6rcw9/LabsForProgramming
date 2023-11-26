@@ -1,0 +1,15 @@
+F:\C#\LabsForProgramming\Solid\OCP\obj\Debug\net7.0\OCP.csproj.AssemblyReference.cache
+F:\C#\LabsForProgramming\Solid\OCP\obj\Debug\net7.0\OCP.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\LabsForProgramming\Solid\OCP\obj\Debug\net7.0\OCP.AssemblyInfoInputs.cache
+F:\C#\LabsForProgramming\Solid\OCP\obj\Debug\net7.0\OCP.AssemblyInfo.cs
+F:\C#\LabsForProgramming\Solid\OCP\obj\Debug\net7.0\OCP.csproj.CoreCompileInputs.cache
+F:\C#\LabsForProgramming\Solid\OCP\bin\Debug\net7.0\OCP.exe
+F:\C#\LabsForProgramming\Solid\OCP\bin\Debug\net7.0\OCP.deps.json
+F:\C#\LabsForProgramming\Solid\OCP\bin\Debug\net7.0\OCP.runtimeconfig.json
+F:\C#\LabsForProgramming\Solid\OCP\bin\Debug\net7.0\OCP.dll
+F:\C#\LabsForProgramming\Solid\OCP\bin\Debug\net7.0\OCP.pdb
+F:\C#\LabsForProgramming\Solid\OCP\obj\Debug\net7.0\OCP.dll
+F:\C#\LabsForProgramming\Solid\OCP\obj\Debug\net7.0\refint\OCP.dll
+F:\C#\LabsForProgramming\Solid\OCP\obj\Debug\net7.0\OCP.pdb
+F:\C#\LabsForProgramming\Solid\OCP\obj\Debug\net7.0\OCP.genruntimeconfig.cache
+F:\C#\LabsForProgramming\Solid\OCP\obj\Debug\net7.0\ref\OCP.dll

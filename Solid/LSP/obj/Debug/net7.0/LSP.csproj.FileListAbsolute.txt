@@ -1,0 +1,15 @@
+F:\C#\LabsForProgramming\Solid\LSP\bin\Debug\net7.0\LSP.exe
+F:\C#\LabsForProgramming\Solid\LSP\bin\Debug\net7.0\LSP.deps.json
+F:\C#\LabsForProgramming\Solid\LSP\bin\Debug\net7.0\LSP.runtimeconfig.json
+F:\C#\LabsForProgramming\Solid\LSP\bin\Debug\net7.0\LSP.dll
+F:\C#\LabsForProgramming\Solid\LSP\bin\Debug\net7.0\LSP.pdb
+F:\C#\LabsForProgramming\Solid\LSP\obj\Debug\net7.0\LSP.csproj.AssemblyReference.cache
+F:\C#\LabsForProgramming\Solid\LSP\obj\Debug\net7.0\LSP.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\LabsForProgramming\Solid\LSP\obj\Debug\net7.0\LSP.AssemblyInfoInputs.cache
+F:\C#\LabsForProgramming\Solid\LSP\obj\Debug\net7.0\LSP.AssemblyInfo.cs
+F:\C#\LabsForProgramming\Solid\LSP\obj\Debug\net7.0\LSP.csproj.CoreCompileInputs.cache
+F:\C#\LabsForProgramming\Solid\LSP\obj\Debug\net7.0\LSP.dll
+F:\C#\LabsForProgramming\Solid\LSP\obj\Debug\net7.0\refint\LSP.dll
+F:\C#\LabsForProgramming\Solid\LSP\obj\Debug\net7.0\LSP.pdb
+F:\C#\LabsForProgramming\Solid\LSP\obj\Debug\net7.0\LSP.genruntimeconfig.cache
+F:\C#\LabsForProgramming\Solid\LSP\obj\Debug\net7.0\ref\LSP.dll

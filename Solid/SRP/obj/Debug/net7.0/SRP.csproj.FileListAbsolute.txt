@@ -1,0 +1,15 @@
+F:\C#\LabsForProgramming\Solid\SRP\bin\Debug\net7.0\SRP.exe
+F:\C#\LabsForProgramming\Solid\SRP\bin\Debug\net7.0\SRP.deps.json
+F:\C#\LabsForProgramming\Solid\SRP\bin\Debug\net7.0\SRP.runtimeconfig.json
+F:\C#\LabsForProgramming\Solid\SRP\bin\Debug\net7.0\SRP.dll
+F:\C#\LabsForProgramming\Solid\SRP\bin\Debug\net7.0\SRP.pdb
+F:\C#\LabsForProgramming\Solid\SRP\obj\Debug\net7.0\SRP.csproj.AssemblyReference.cache
+F:\C#\LabsForProgramming\Solid\SRP\obj\Debug\net7.0\SRP.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\LabsForProgramming\Solid\SRP\obj\Debug\net7.0\SRP.AssemblyInfoInputs.cache
+F:\C#\LabsForProgramming\Solid\SRP\obj\Debug\net7.0\SRP.AssemblyInfo.cs
+F:\C#\LabsForProgramming\Solid\SRP\obj\Debug\net7.0\SRP.csproj.CoreCompileInputs.cache
+F:\C#\LabsForProgramming\Solid\SRP\obj\Debug\net7.0\SRP.dll
+F:\C#\LabsForProgramming\Solid\SRP\obj\Debug\net7.0\refint\SRP.dll
+F:\C#\LabsForProgramming\Solid\SRP\obj\Debug\net7.0\SRP.pdb
+F:\C#\LabsForProgramming\Solid\SRP\obj\Debug\net7.0\SRP.genruntimeconfig.cache
+F:\C#\LabsForProgramming\Solid\SRP\obj\Debug\net7.0\ref\SRP.dll

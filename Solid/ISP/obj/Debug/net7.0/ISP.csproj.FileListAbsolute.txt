@@ -1,0 +1,15 @@
+F:\C#\LabsForProgramming\Solid\ISP\bin\Debug\net7.0\ISP.exe
+F:\C#\LabsForProgramming\Solid\ISP\bin\Debug\net7.0\ISP.deps.json
+F:\C#\LabsForProgramming\Solid\ISP\bin\Debug\net7.0\ISP.runtimeconfig.json
+F:\C#\LabsForProgramming\Solid\ISP\bin\Debug\net7.0\ISP.dll
+F:\C#\LabsForProgramming\Solid\ISP\bin\Debug\net7.0\ISP.pdb
+F:\C#\LabsForProgramming\Solid\ISP\obj\Debug\net7.0\ISP.csproj.AssemblyReference.cache
+F:\C#\LabsForProgramming\Solid\ISP\obj\Debug\net7.0\ISP.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\LabsForProgramming\Solid\ISP\obj\Debug\net7.0\ISP.AssemblyInfoInputs.cache
+F:\C#\LabsForProgramming\Solid\ISP\obj\Debug\net7.0\ISP.AssemblyInfo.cs
+F:\C#\LabsForProgramming\Solid\ISP\obj\Debug\net7.0\ISP.csproj.CoreCompileInputs.cache
+F:\C#\LabsForProgramming\Solid\ISP\obj\Debug\net7.0\ISP.dll
+F:\C#\LabsForProgramming\Solid\ISP\obj\Debug\net7.0\refint\ISP.dll
+F:\C#\LabsForProgramming\Solid\ISP\obj\Debug\net7.0\ISP.pdb
+F:\C#\LabsForProgramming\Solid\ISP\obj\Debug\net7.0\ISP.genruntimeconfig.cache
+F:\C#\LabsForProgramming\Solid\ISP\obj\Debug\net7.0\ref\ISP.dll
