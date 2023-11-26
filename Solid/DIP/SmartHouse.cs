@@ -1,22 +1,23 @@
 ﻿namespace DIP;
 
-public class SmartHouse: IDisposable, IObservable<string>
+public class SmartHouse: IDisposable
 {
     private List<IHouseControl> _devices;
-    private List<IObserver<string>> _observers;
+    private IHouseObserver _houseObserver;
 
     public SmartHouse()
     {
         _devices = new List<IHouseControl>();
-        _observers = new List<IObserver<string>>();
+        _houseObserver = new Observer();
     }
 
     public void ConnectDevice(IHouseControl device)
     {
-        Subscribe((IObserver<string>)device);
+        device.Connect(_houseObserver);
+        _houseObserver.InvokeEvent();
         device.SwitchOn();
         _devices.Add(device);
-        _observers.Add((IObserver<string>)device);
+       
     }
     
     public void Dispose()
@@ -24,16 +25,11 @@ public class SmartHouse: IDisposable, IObservable<string>
         foreach (var device in _devices)
         {
             device.SwitchOff();
-            
-        }
-
-        foreach (var observer in _observers)
-        {
-            observer.OnCompleted();
+            device.Disconnect(_houseObserver);
             
         }
         _devices.Clear();
-        _observers.Clear();
+        
         
     }
 
@@ -50,9 +46,5 @@ public class SmartHouse: IDisposable, IObservable<string>
         device.SwitchOn();
     }
 
-    public IDisposable Subscribe(IObserver<string> observer)
-    {
-        observer.OnNext("Device`s connected");
-        return this;
-    }
+    
 }

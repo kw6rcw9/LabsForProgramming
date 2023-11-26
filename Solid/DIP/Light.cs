@@ -2,7 +2,7 @@
 
 namespace DIP;
 
-public class Light: ILight, IObserver<string>
+public class Light: ILight
 {
     private bool _isConnected = false;
 
@@ -10,6 +10,18 @@ public class Light: ILight, IObserver<string>
     {
         _isConnected = false;
     }
+
+    public void Connect(IHouseObserver observable)
+    {
+        observable.Subscribe(IsConnected);
+    }
+
+    public void Disconnect(IHouseObserver observer)
+    {
+        _isConnected = false;
+        observer.UnSubscribe(IsConnected);
+    }
+
     public void SwitchOn()
     {
         Console.WriteLine("Light`s on");
@@ -20,31 +32,20 @@ public class Light: ILight, IObserver<string>
         Console.WriteLine("Light`s off");
     }
 
-    public void ChangeIntensity(float value)
-    {
-        if(_isConnected)
-            Console.WriteLine($"The light intensity has changed on {value} value.");
-        else
-        {
-            OnError(new Exception("Device is not connected"));
-            
-        }
-    }
-
-    public void OnCompleted()
-    {
-        _isConnected = false;
-        Console.WriteLine("Device is not connected");
-    }
-
-    public void OnError(Exception error)
-    {
-        throw new Exception(error.Message);
-    }
-
-    public void OnNext(string value)
+    private void IsConnected()
     {
         _isConnected = true;
-        Console.WriteLine(value);
     }
+
+    public void ChangeIntensity(float value)
+    {
+        if (!_isConnected)
+            throw new Exception("Device is not connected");
+        Console.WriteLine($"The light intensity has changed on {value} value.");
+       
+    }
+
+   
+
+   
 }

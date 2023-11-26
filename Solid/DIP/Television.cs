@@ -1,6 +1,6 @@
 ﻿namespace DIP;
 
-public class Television: ITv, IObserver<string>
+public class Television: ITv
 {
     private bool _isConnected;
 
@@ -18,28 +18,29 @@ public class Television: ITv, IObserver<string>
         Console.WriteLine("Tv`s  off");
     }
 
+    public void Connect(IHouseObserver observable)
+    {
+        observable.Subscribe(IsConnected);
+    }
+
+    public void Disconnect(IHouseObserver observer)
+    {
+        _isConnected = false;
+        observer.UnSubscribe(IsConnected);
+    }
+
     public void SwitchChannel(string newChannel)
     {
-        if(!_isConnected)
-            OnError(new Exception("Device is not connected"));
 
+        if (!_isConnected)
+            throw new Exception("Device is not connected");
         Console.WriteLine($"Switched to {newChannel}");
     }
 
-    public void OnCompleted()
-    {
-        _isConnected = false;
-        Console.WriteLine("Device is not connected");
-    }
-
-    public void OnError(Exception error)
-    {
-        throw new Exception(error.Message);
-    }
-
-    public void OnNext(string value)
+    private void IsConnected()
     {
         _isConnected = true;
-        Console.WriteLine(value);
     }
+
+   
 }
