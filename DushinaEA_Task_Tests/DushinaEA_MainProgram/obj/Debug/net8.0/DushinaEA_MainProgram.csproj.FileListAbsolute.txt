@@ -1,0 +1,15 @@
+F:\C#\LabsForProgramming\DushinaEA_Task_Tests\DushinaEA_MainProgram\bin\Debug\net8.0\DushinaEA_MainProgram.exe
+F:\C#\LabsForProgramming\DushinaEA_Task_Tests\DushinaEA_MainProgram\bin\Debug\net8.0\DushinaEA_MainProgram.deps.json
+F:\C#\LabsForProgramming\DushinaEA_Task_Tests\DushinaEA_MainProgram\bin\Debug\net8.0\DushinaEA_MainProgram.runtimeconfig.json
+F:\C#\LabsForProgramming\DushinaEA_Task_Tests\DushinaEA_MainProgram\bin\Debug\net8.0\DushinaEA_MainProgram.dll
+F:\C#\LabsForProgramming\DushinaEA_Task_Tests\DushinaEA_MainProgram\bin\Debug\net8.0\DushinaEA_MainProgram.pdb
+F:\C#\LabsForProgramming\DushinaEA_Task_Tests\DushinaEA_MainProgram\obj\Debug\net8.0\DushinaEA_MainProgram.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\LabsForProgramming\DushinaEA_Task_Tests\DushinaEA_MainProgram\obj\Debug\net8.0\DushinaEA_MainProgram.AssemblyInfoInputs.cache
+F:\C#\LabsForProgramming\DushinaEA_Task_Tests\DushinaEA_MainProgram\obj\Debug\net8.0\DushinaEA_MainProgram.AssemblyInfo.cs
+F:\C#\LabsForProgramming\DushinaEA_Task_Tests\DushinaEA_MainProgram\obj\Debug\net8.0\DushinaEA_MainProgram.csproj.CoreCompileInputs.cache
+F:\C#\LabsForProgramming\DushinaEA_Task_Tests\DushinaEA_MainProgram\obj\Debug\net8.0\DushinaEA_MainProgram.sourcelink.json
+F:\C#\LabsForProgramming\DushinaEA_Task_Tests\DushinaEA_MainProgram\obj\Debug\net8.0\DushinaEA_MainProgram.dll
+F:\C#\LabsForProgramming\DushinaEA_Task_Tests\DushinaEA_MainProgram\obj\Debug\net8.0\refint\DushinaEA_MainProgram.dll
+F:\C#\LabsForProgramming\DushinaEA_Task_Tests\DushinaEA_MainProgram\obj\Debug\net8.0\DushinaEA_MainProgram.pdb
+F:\C#\LabsForProgramming\DushinaEA_Task_Tests\DushinaEA_MainProgram\obj\Debug\net8.0\DushinaEA_MainProgram.genruntimeconfig.cache
+F:\C#\LabsForProgramming\DushinaEA_Task_Tests\DushinaEA_MainProgram\obj\Debug\net8.0\ref\DushinaEA_MainProgram.dll

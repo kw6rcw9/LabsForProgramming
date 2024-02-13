@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DushinaEA_MainProgram/1.0.0": {
+        "runtime": {
+          "DushinaEA_MainProgram.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DushinaEA_MainProgram/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
