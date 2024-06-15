@@ -1,0 +1,15 @@
+E:\Git\LabsForProgramming\GenericsKT\GenericsKT\bin\Debug\net8.0\GenericsKT.exe
+E:\Git\LabsForProgramming\GenericsKT\GenericsKT\bin\Debug\net8.0\GenericsKT.deps.json
+E:\Git\LabsForProgramming\GenericsKT\GenericsKT\bin\Debug\net8.0\GenericsKT.runtimeconfig.json
+E:\Git\LabsForProgramming\GenericsKT\GenericsKT\bin\Debug\net8.0\GenericsKT.dll
+E:\Git\LabsForProgramming\GenericsKT\GenericsKT\bin\Debug\net8.0\GenericsKT.pdb
+E:\Git\LabsForProgramming\GenericsKT\GenericsKT\obj\Debug\net8.0\GenericsKT.GeneratedMSBuildEditorConfig.editorconfig
+E:\Git\LabsForProgramming\GenericsKT\GenericsKT\obj\Debug\net8.0\GenericsKT.AssemblyInfoInputs.cache
+E:\Git\LabsForProgramming\GenericsKT\GenericsKT\obj\Debug\net8.0\GenericsKT.AssemblyInfo.cs
+E:\Git\LabsForProgramming\GenericsKT\GenericsKT\obj\Debug\net8.0\GenericsKT.csproj.CoreCompileInputs.cache
+E:\Git\LabsForProgramming\GenericsKT\GenericsKT\obj\Debug\net8.0\GenericsKT.sourcelink.json
+E:\Git\LabsForProgramming\GenericsKT\GenericsKT\obj\Debug\net8.0\GenericsKT.dll
+E:\Git\LabsForProgramming\GenericsKT\GenericsKT\obj\Debug\net8.0\refint\GenericsKT.dll
+E:\Git\LabsForProgramming\GenericsKT\GenericsKT\obj\Debug\net8.0\GenericsKT.pdb
+E:\Git\LabsForProgramming\GenericsKT\GenericsKT\obj\Debug\net8.0\GenericsKT.genruntimeconfig.cache
+E:\Git\LabsForProgramming\GenericsKT\GenericsKT\obj\Debug\net8.0\ref\GenericsKT.dll
