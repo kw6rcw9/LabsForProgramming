@@ -1,0 +1,15 @@
+E:\Git\LabsForProgramming\Generics\Generics\bin\Debug\net8.0\Generics.exe
+E:\Git\LabsForProgramming\Generics\Generics\bin\Debug\net8.0\Generics.deps.json
+E:\Git\LabsForProgramming\Generics\Generics\bin\Debug\net8.0\Generics.runtimeconfig.json
+E:\Git\LabsForProgramming\Generics\Generics\bin\Debug\net8.0\Generics.dll
+E:\Git\LabsForProgramming\Generics\Generics\bin\Debug\net8.0\Generics.pdb
+E:\Git\LabsForProgramming\Generics\Generics\obj\Debug\net8.0\Generics.GeneratedMSBuildEditorConfig.editorconfig
+E:\Git\LabsForProgramming\Generics\Generics\obj\Debug\net8.0\Generics.AssemblyInfoInputs.cache
+E:\Git\LabsForProgramming\Generics\Generics\obj\Debug\net8.0\Generics.AssemblyInfo.cs
+E:\Git\LabsForProgramming\Generics\Generics\obj\Debug\net8.0\Generics.csproj.CoreCompileInputs.cache
+E:\Git\LabsForProgramming\Generics\Generics\obj\Debug\net8.0\Generics.sourcelink.json
+E:\Git\LabsForProgramming\Generics\Generics\obj\Debug\net8.0\Generics.dll
+E:\Git\LabsForProgramming\Generics\Generics\obj\Debug\net8.0\refint\Generics.dll
+E:\Git\LabsForProgramming\Generics\Generics\obj\Debug\net8.0\Generics.pdb
+E:\Git\LabsForProgramming\Generics\Generics\obj\Debug\net8.0\Generics.genruntimeconfig.cache
+E:\Git\LabsForProgramming\Generics\Generics\obj\Debug\net8.0\ref\Generics.dll
